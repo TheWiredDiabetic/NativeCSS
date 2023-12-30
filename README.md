@@ -76,7 +76,8 @@
 
 ## NativeCSS Support
 > [!WARNING]
-> This hasen't been updated yet as there is **no official release of NativeCSS** yet, meaning it hasen't been tested across most common languages just yet. This will be updated when it's released. 
+> This hasen't been updated yet as there is **no official release of NativeCSS** yet, meaning it hasen't been tested across most common languages just yet. This will be updated when it's released.
+
 | System | Support Status |
 |--------|----------------|
 | HTML | N/A as of no release |
